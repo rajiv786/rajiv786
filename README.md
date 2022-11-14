@@ -13,11 +13,13 @@
  
  
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cgirish01)
-[![Linkedin Badge](https://img.shields.io/badge/-Girish%20Choudhary-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cgirish01/)](https://www.linkedin.com/in/cgirish01//) 
- [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/cgirish01)
-![GitHub Stars](https://img.shields.io/github/stars/cgirish01?style=social)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rajiv786)
+[![Linkedin Badge](https://img.shields.io/badge/-Rajiv-khanduja-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rajiv-khanduja/)](https://www.linkedin.com/in/rajiv-khanduja//) 
+ [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/rajiv786)
+![GitHub Stars](https://img.shields.io/github/stars/rajiv786?style=social)
 
+📫 How to reach me: rajivkhanduja2@gmail.com;
+🔗 My website: https://rajivkhanduja2.wixsite.com/portfolio
 
 
 
@@ -29,14 +31,14 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/cgirish01/cgirish01/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://github.com/rajiv786/rajiv786/blob/main/assets/oct-about.png"> 
 </p>
   
 
 
 ## About Me ✍
  
- I m <b> Girish Choudhary</b>, a pursuing <b>Computer Science Engineer</b> Currently Head Technical Volunteer [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Rajiv</b>, a <b>Computer Science Engineer</b> From Rewari Haryana [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
@@ -45,7 +47,7 @@
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://github.com/cgirish01/cgirish01/blob/main/assets/about.png' width='250"'>
+<img align='left' src='https://github.com/rajiv786/rajiv786/blob/main/assets/about.png' width='250"'>
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
@@ -76,11 +78,14 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
+[![Reactjs](https://img.shields.io/badge/-reactjs-326CE5?style=flat-square&logo=ansible&logoColor=000000)]()
+[![Nodejs](https://img.shields.io/badge/-nodejs-326CE5?style=flat-square&logo=ansible&logoColor=000000)]()
+[![MongoDB](https://img.shields.io/badge/-nodejs-326CE5?style=flat-square&logo=ansible&logoColor=000000)]()
 <a href="https://dev.to/amit17133129">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="GirishChoudhary's DEV Profile" height="30" width="30">
 </a>
 <p align="center">
-  <img src="https://github.com/cgirish01/cgirish01/blob/main/MySkills.gif?raw=true"/>
+  <img src="https://github.com/rajiv786/rajiv786/blob/main/MySkills.gif?raw=true"/>
 </p>
  <!--My Hobbies-->
  
@@ -92,23 +97,23 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200"'>
  
-Having a hobby is a <b>great</b> <img align='right' src='https://github.com/cgirish01/cgirish01/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
+Having a hobby is a <b>great</b> <img align='right' src='https://github.com/rajiv786/rajiv786/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
 <p align="center">
-  <a href="#">
+  <a href="">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="#">
+  <a href="">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/cgirish01">
+  <a href="">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="#">
+  <a href="">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
@@ -120,12 +125,12 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## Quick Overview 📝
     
-<a href="https://github.com/cgirish01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cgirish01&show_icons=true&include_all_commits=true&theme=radical" alt="Girish's github stats" />
+<a href="https://github.com/rajiv786/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rajiv786&show_icons=true&include_all_commits=true&theme=radical" alt="Rajiv's github stats" />
 </a>
-<a href="https://github.com/cgirish01/github-readme-stats">
+<a href="https://github.com/rajiv786/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cgirish01&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajiv786&layout=compact&theme=radical" />
 </a>
 
 
@@ -134,17 +139,17 @@ but also gives you various benefits which can improve the quality of your life. 
 <!--footer-->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+917977400457) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+918607914832) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
 <div align="center">
-<a href="https://github.com/cgirish01" target="_blank">
+<a href="https://github.com/rajiv786" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/cgirish01" target="_blank">
+<a href="https://www.facebook.com/rajiv.khanduja.1232" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 
-<a href="https://linkedin.com/in/cgirish01" target="_blank">
+<a href="https://linkedin.com/in/rajiv-khanduja" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  
@@ -158,8 +163,8 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/cgirish01/count.svg" />
+ <b> Can you break this count of Profile view?</b><br>
+  <img src="https://profile-counter.glitch.me/rajiv786/count.svg" />
 </p>
 
    
@@ -167,6 +172,6 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-<a href="https://github.com/cgirish01/cgirish01"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/rajiv786/rajiv786"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
  
