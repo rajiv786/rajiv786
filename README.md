@@ -102,7 +102,7 @@ but also gives you various benefits which can improve the quality of your life. 
 ##
 <p align="center">
   <a href="https://auth.geeksforgeeks.org/user/rajivkhanduja2/practice">
-    <img src="https://www.geeksforgeeks.org/" alt="codechef" style="vertical-align:top; margin:4px">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/rajivkhanduja2">
