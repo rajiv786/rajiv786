@@ -101,8 +101,8 @@ Having a hobby is a <b>great</b> <img align='right' src='https://github.com/raji
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
 <p align="center">
-  <a href="">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  <a href="https://auth.geeksforgeeks.org/user/rajivkhanduja2/practice">
+    <img src="https://www.geeksforgeeks.org/" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/rajivkhanduja2">
